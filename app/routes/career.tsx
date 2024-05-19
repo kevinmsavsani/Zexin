@@ -110,7 +110,7 @@ export default function Index() {
                 className="h-6 w-6 text-teal-600 mr-2"
                 aria-hidden="true"
               />
-              <span className="text-gray-900">011-43518599</span>
+              <span className="text-gray-900">7060126221</span>
             </div>
             <div className="mb-4 flex items-center">
               <PencilSquareIcon
@@ -121,7 +121,7 @@ export default function Index() {
                 href="http://www.bestochem.com"
                 className="text-teal-600 hover:underline"
               >
-                info@zexinpharma.com
+                connect@zexinpharma.in
               </a>
             </div>
             <div className="flex items-center">

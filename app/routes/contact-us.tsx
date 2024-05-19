@@ -35,7 +35,7 @@ export const action: ActionFunction = async ({
 
   const mailOptions = {
     from: CLIENT_EMAIL,
-    to: "kevinmsavsani@gmail.com",
+    to: "connect@zexinpharma.in",
     subject: "Contact Form Submission",
     text: `Name: ${firstName} ${lastName}\nCompany: ${company}\nEmail: ${email}\nPhone Number: ${phoneNumber}\nMessage: ${message}`,
   };
