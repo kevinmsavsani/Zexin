@@ -21,7 +21,7 @@ const ImageGallery = ({ fileNames }: { fileNames: string[] }) => {
             {categories[category].map((fileName: string, index: number) => (
               <div key={index} className="border rounded overflow-hidden">
                 <img
-                  src={`/public/products/${fileName}`}
+                  src={`/products/${fileName}`}
                   alt={fileName}
                   className="w-full h-full object-cover"
                 />

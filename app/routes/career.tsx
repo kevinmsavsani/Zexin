@@ -84,7 +84,7 @@ export default function Index() {
       </ul>
       <div className="flex divide-x m-8 p-8 border boder-dashed text-gray-600 rounded-lg">
         <div>
-          <img className="h-24" src="../../public/zexin.jpg" alt="" />
+          <img className="h-24" src="zexin.jpg" alt="" />
           <p className="py-12">
             The Company was established in the year 2023. It's a reputed &
             established name in Indian pharmaceutical market with the
@@ -96,14 +96,14 @@ export default function Index() {
           <h1 className="font-bold p-4">Corporate Office</h1>
           <div className="bg-gray-100 px-12 py-2 rounded-lg shadow-md">
             <p className="mb-4 flex items-center">
-              E-358, Ground Floor, Greater Kailash II, New Delhi-110048
+              96/1, Purwavali, Ganeshpur, Roorkee, Haridwar-247667, Uttarakhand.
             </p>
             <div className="mb-4 flex items-center">
               <ClockIcon
                 className="h-6 w-6 text-teal-600 mr-2"
                 aria-hidden="true"
               />
-              <span className="text-gray-900">Mon-Sat: 10am – 6pm</span>
+              <span className="text-gray-900">Mon-Sat: 10am - 6pm</span>
             </div>
             <div className="mb-4 flex items-center">
               <PhoneIcon
@@ -121,7 +121,7 @@ export default function Index() {
                 href="http://www.bestochem.com"
                 className="text-teal-600 hover:underline"
               >
-                info@bestochem.com
+                info@zexinpharma.com
               </a>
             </div>
             <div className="flex items-center">
@@ -133,7 +133,7 @@ export default function Index() {
                 href="http://www.bestochem.com"
                 className="text-teal-600 hover:underline"
               >
-                www.bestochem.com
+                www.zexinpharma.com
               </a>
             </div>
           </div>

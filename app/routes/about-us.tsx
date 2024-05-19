@@ -100,7 +100,7 @@ export default function Index() {
         </div>
       </section>
       <img
-        src={`/public/values.png`}
+        src={`values.png`}
         alt={'values'}
         className="w-full h-full object-cover"
       />

@@ -9,7 +9,8 @@ import type { LinksFunction } from "@remix-run/node";
 import stylesheet from "~/tailwind.css?url";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
-
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 export const links: LinksFunction = () => [
   { rel: "stylesheet", href: stylesheet },
 ];
@@ -36,7 +37,7 @@ export default function App() {
   return (
     <div>
       <Navbar />
-
+      <ToastContainer />
       <main className="pt-24">
         <Outlet />
       </main>
