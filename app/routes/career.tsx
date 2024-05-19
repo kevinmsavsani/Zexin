@@ -118,7 +118,7 @@ export default function Index() {
                 aria-hidden="true"
               />
               <a
-                href="http://www.bestochem.com"
+                href="/"
                 className="text-teal-600 hover:underline"
               >
                 connect@zexinpharma.in
@@ -130,7 +130,7 @@ export default function Index() {
                 aria-hidden="true"
               />
               <a
-                href="http://www.bestochem.com"
+                href="/"
                 className="text-teal-600 hover:underline"
               >
                 www.zexinpharma.com
